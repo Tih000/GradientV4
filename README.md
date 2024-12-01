@@ -3,7 +3,7 @@
 - Python 3.11 or higher
 - Stable internet connection
 - Valid [Firstmail](https://firstmail.ltd/en-US) email accounts
-- Working proxies (HTTP/SOCKS5)
+- Working proxies (HTTP)
 - Captcha service subscription [capsolver](https://www.capsolver.com/)
 
 ## 🛠️ Installation
