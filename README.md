@@ -34,7 +34,7 @@ HEADLESS = True
 shuffle = False                     # Shuffle the mail or go in order (True or False)
 
 delay_min = 30                      # Delay between accounts for the farming and regestration modes
-delay_max = 50                      # (для корректной работы не советуем делать маленькую задержку)
+delay_max = 50                      # (for correct operation, we do not recommend making a small delay)
 
 DELAY_BETWEEN_GETTING_STATS = 500   # The average value (+-100) when checking statistics in farming mode
 DINAMIC_PROXY = True                # Is your proxy dinamic? (True or False)
