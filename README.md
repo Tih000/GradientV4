@@ -130,7 +130,6 @@ username:password:host:port
 
 #### 📧 Email Registration Failed
 - Change the proxy for the registration
-- 
 
 #### 🧩 Captcha Problems
 - Verify API key validity
